@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544501406480",
+    "project_id": "my-assigment-cfe67",
+    "storage_bucket": "my-assigment-cfe67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544501406480:android:b34df06772afc14d7da395",
+        "android_client_info": {
+          "package_name": "com.sahil.myassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544501406480-nqu71k6ffvc9tptp2830ri81ahc2jqqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3lBPMXxHhvdm1wFptzva_CoPh3z0h4cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544501406480-nqu71k6ffvc9tptp2830ri81ahc2jqqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
